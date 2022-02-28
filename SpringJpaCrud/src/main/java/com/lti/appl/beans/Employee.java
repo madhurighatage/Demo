@@ -79,6 +79,4 @@ public class Employee {
 		return "\n  Employee [empNo=" + empNo + ", empName=" + empName + ", empSal=" + empSal + "]";
 	}
 	
-	
-	
 }
